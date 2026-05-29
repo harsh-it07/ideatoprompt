@@ -1,2 +1,2 @@
 # ideatoprompt
-an AI prompt ehnacer 
+an AI prompt ehanacer 
